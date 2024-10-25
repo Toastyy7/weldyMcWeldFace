@@ -99,3 +99,15 @@ h2{
   color: red;
 }
 
+.logo{
+  opacity: 0.4;
+  position: fixed;
+   width: 10%; 
+   height: 5%;
+   top: 20px; 
+   left: 10px; 
+   width: 20%;
+   height: 20%;
+
+}
+
